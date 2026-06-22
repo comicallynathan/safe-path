@@ -1,5 +1,6 @@
 {
   "name": "safe-path",
+  "version": "1.0.0",
   "module": "index.ts",
   "devDependencies": {
     "@types/bun": "latest",
@@ -14,5 +15,8 @@
   "type": "module",
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "scripts": {
+    "pack": "bun pm pack"
   }
 }
