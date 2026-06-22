@@ -1,4 +1,5 @@
 # safe-path
+Returns a promise for safe and risky path on Express.
 
 To install dependencies:
 

@@ -1,5 +1,6 @@
 {
   "name": "safe-path",
+  "description": "Returns a promise for safe and risky path on Express.",
   "version": "1.0.0",
   "module": "index.ts",
   "devDependencies": {
