@@ -1,0 +1,23 @@
+{
+	"files.eol": "\n",
+	"files.exclude": {
+		".gitattributes": true,
+		"node_modules": true,
+		"package-lock.json": true
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+		"editor.formatOnSave": true
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+		"editor.formatOnSave": true
+	},
+	"eslint.run": "onType",
+	"eslint.format.enable": true,
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"workbench.editor.limit.enabled": true,
+	"workbench.editor.limit.perEditorGroup": true,
+	"workbench.editor.limit.value": 3,
+	"workbench.editor.openPositioning": "left"
+}
